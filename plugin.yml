@@ -1,0 +1,6 @@
+name: yHub
+version: 2.0.0.1 - SNAPSHOT
+main: free.git.hub.yh.HubMain
+authors: [Re, in, al, dy, REINALDY OLIVEIRA]
+commands:
+  gm:
